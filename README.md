@@ -1,5 +1,5 @@
-## Site react stático no Spring
-# Como fazer?
+# Site react stático no Spring
+## Como fazer?
 - 1) Criar um projeto react básico, com os comandos:
      a. npx create-react-app nome-do-seu-projeto;
      b. Edite em App.js o conteúdo do seu site. Fique à vontade para criar componentes e paginações mais complexas;
